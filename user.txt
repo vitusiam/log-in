@@ -1,9 +1,8 @@
-username: vitus, password: 123
-
-username: mom, password: twinkle
-
-username: dad, password: hunter
-
-username: vitus, password: 678
-
-username: mom, password: hunter
+vitus:123
+mom:twinkle
+dad:hunter
+hunter:dad
+twinkle:mom
+cat:mars
+sis:sabrina
+gina:teacher
